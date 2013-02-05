@@ -10,4 +10,6 @@
 
 @interface MLViewController : UIViewController
 
+@property (nonatomic, strong) NSArray *hospitals;
+
 @end
